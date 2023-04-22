@@ -1,0 +1,19 @@
+---
+
+extends: default
+
+yaml-files:
+  - '*.yaml'
+  - '*.yml'
+  - '.yamllint'
+  
+ignore:
+  - .github/
+  - config/
+  - manifest.json
+  
+rules:
+  document-start: disable
+  line-length: disable
+  empty-lines: disable
+  comments: disable
