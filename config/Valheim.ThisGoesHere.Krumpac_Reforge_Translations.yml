@@ -1,0 +1,4 @@
+﻿PrintComment: ThisGoesHere moves the translations in place
+CopyFolder:
+- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Datys_Professions/translations
+  To: plugins/Krumpac-Datys_Professions/translations
