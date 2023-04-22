@@ -12,13 +12,6 @@ Krump_Hair_Viking_10: "Viking Hairstyle 10"
 Krump_Hair_Viking_11: "Viking Hairstyle 11"
 Krump_Hair_Viking_12: "Viking Hairstyle 12"
 Krump_Hair_Viking_13: "Viking Hairstyle 13"
-#SetEffects
-Krump_SetEffect_BerserkrSet_T1 : "Berserkr Set Tier 1"
-Krump_SetEffect_BerserkrSet_T1_Description : "The 3 piece bonus given while wearing this set gives you +"
-Krump_SetEffect_BerserkrSet_T2 : "Berserkr Set Tier 2"
-Krump_SetEffect_BerserkrSet_T2_Description : "The 3 piece bonus given while wearing this set gives you +"
-Krump_SetEffect_BerserkrSet_T3 : "Berserkr Set Tier 3"
-Krump_SetEffect_BerserkrSet_T3_Description : "The 3 piece bonus given while wearing this set gives you +"
 #SetEffect
 Krump_SetEffect_BoarSet_T1 : "Boar Set Tier 1"
 Krump_SetEffect_BoarSet_T1_Description : "The 3 piece bonus given while wearing this set gives you the following:"
@@ -126,18 +119,18 @@ Krump_T1_Armor_Berserkr_Helmet_Description : "A headpiece designed to keep the w
 Krump_T1_Armor_Berserkr_Legs : "Berserkr Legs"
 Krump_T1_Armor_Berserkr_Legs_Description : "Leggings made from the fur of wolves, these will afford the wearer protection from the cold." 
 #Tier 2
-Krump_T2_Armor_Berserkr_Chest  : "Berserkr Chest"
+Krump_T2_Armor_Berserkr_Chest  : "Advanced Berserkr Chest"
 Krump_T2_Armor_Berserkr_Chest_Description : "The berserkr armour is adorned with pelts and reinforced silver stitching; they are sturdy and will keep the wearer warm."
-Krump_T2_Armor_Berserkr_Helmet : "Berserkr Helmet"
+Krump_T2_Armor_Berserkr_Helmet : "Advanced Berserkr Helmet"
 Krump_T2_Armor_Berserkr_Helmet_Description : "A headpiece designed to keep the wearer warm, this helm is crafted from the trophy of a bear and has reinforced silver stitching to add more durability."
-Krump_T2_Armor_Berserkr_Legs : "Berserkr Legs"
+Krump_T2_Armor_Berserkr_Legs : "Advanced Berserkr Legs"
 Krump_T2_Armor_Berserkr_Legs_Description : "Leggings made from the fur of wolves: with reinforced silver stitching, they keep the wearer protected and warm."
 #Tier 3
-Krump_T3_Armor_Berserkr_Chest  : "Berserkr Chest"
+Krump_T3_Armor_Berserkr_Chest  : "Reinforced Berserkr Chest"
 Krump_T3_Armor_Berserkr_Chest_Description : "The berserkr armour is adorned with pelts, reinforced silver stitching and added padding; they are sturdy and will keep the wearer warm."
-Krump_T3_Armor_Berserkr_Helmet : "Berserkr Helmet"
+Krump_T3_Armor_Berserkr_Helmet : "Reinforced Berserkr Helmet"
 Krump_T3_Armor_Berserkr_Helmet_Description : "A headpiece designed to keep the wearer warm, this helm is crafted from the trophy of a bear with reinforced silver stitching and added padding to offer more protection."
-Krump_T3_Armor_Berserkr_Legs : "Berserkr Legs"
+Krump_T3_Armor_Berserkr_Legs : "Reinforced Berserkr Legs"
 Krump_T3_Armor_Berserkr_Legs_Description : "Leggings made from the fur of wolves: with reinforced silver stitching and added padding, they keep the wearer protected and warm."
 #Tier 1
 Krump_T1_Armor_Boar_Chest : "Primitive Boar Leather Chest"
@@ -335,3 +328,13 @@ Krump_T3_Armor_Yagluth_Helmet : "Reinforced Yagluth Helmet"
 Krump_T3_Armor_Yagluth_Helmet_Description : "Yagluth Helmet."
 Krump_T3_Armor_Yagluth_Legs : "Reinforced Yagluth Legs"
 Krump_T3_Armor_Yagluth_Legs_Description : "Yagluth Legs."
+#ADDED / FIXED 19.04.2023
+#ADDED / FIXED 19.04.2023
+#ADDED / FIXED 19.04.2023
+#SetEffects
+Krump_SetEffect_BerserkirSet_T1 : "Berserkr Set Tier 1"
+Krump_SetEffect_BerserkirSet_T1_Description : "The 3 piece bonus given while wearing this set gives you +"
+Krump_SetEffect_BerserkirSet_T2 : "Berserkr Set Tier 2"
+Krump_SetEffect_BerserkirSet_T2_Description : "The 3 piece bonus given while wearing this set gives you +"
+Krump_SetEffect_BerserkirSet_T3 : "Berserkr Set Tier 3"
+Krump_SetEffect_BerserkirSet_T3_Description : "The 3 piece bonus given while wearing this set gives you +"
