@@ -1,18 +1,18 @@
 ﻿PrintComment: ThisGoesHere moves the translations in place
-CopyFolder:
+MoveFolder:
 - From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Datys_Professions/translations
-  To: plugins/Krumpac-Datys_Professions/translations
+  To: plugins/Krumpac-Datys_Professions
 - From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Armors/translations
-  To: plugins/Krumpac-Krumpac_Armors/translations
+  To: plugins/Krumpac-Krumpac_Armors
 - From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Building_Pieces/translations
-  To: plugins/Krumpac-Krumpac_Building_Pieces/translations
+  To: plugins/Krumpac-Krumpac_Building_Pieces
 - From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Dungeon_BlackForest/translations
-  To: plugins/Krumpac-Krumpac_Dungeon_BlackForest/translations
+  To: plugins/Krumpac-Krumpac_Dungeon_BlackForest
 - From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Dungeon_Meadows/translations
-  To: plugins/Krumpac-Krumpac_Dungeon_Meadows/translations
+  To: plugins/Krumpac-Krumpac_Dungeon_Meadows
 - From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Reforge_Core/translations
-  To: plugins/Krumpac-Krumpac_Reforge_Core/translations
+  To: plugins/Krumpac-Krumpac_Reforge_Core
 - From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Sacrificing_Altars/translations
-  To: plugins/Krumpac-Krumpac_Sacrificing_Altars/translations
+  To: plugins/Krumpac-Krumpac_Sacrificing_Altars
 - From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Weapon_Arsenal/translations
-  To: plugins/Krumpac-Krumpac_Weapon_Arsenal/translations
+  To: plugins/Krumpac-Krumpac_Weapon_Arsenal
