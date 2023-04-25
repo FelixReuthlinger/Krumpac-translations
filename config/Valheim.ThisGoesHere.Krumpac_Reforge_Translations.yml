@@ -1,18 +1,18 @@
 ﻿PrintComment: ThisGoesHere moves the translations in place
 CopyFolder:
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Datys_Professions/translations
+- From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Datys_Professions/translations
   To: plugins/Krumpac-Datys_Professions/translations
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Armors/translations
+- From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Armors/translations
   To: plugins/Krumpac-Krumpac_Armors/translations
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Building_Pieces/translations
+- From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Building_Pieces/translations
   To: plugins/Krumpac-Krumpac_Building_Pieces/translations
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Dungeon_BlackForest/translations
+- From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Dungeon_BlackForest/translations
   To: plugins/Krumpac-Krumpac_Dungeon_BlackForest/translations
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Dungeon_Meadows/translations
+- From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Dungeon_Meadows/translations
   To: plugins/Krumpac-Krumpac_Dungeon_Meadows/translations
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Reforge_Core/translations
+- From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Reforge_Core/translations
   To: plugins/Krumpac-Krumpac_Reforge_Core/translations
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Sacrificing_Altars/translations
+- From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Sacrificing_Altars/translations
   To: plugins/Krumpac-Krumpac_Sacrificing_Altars/translations
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Weapon_Arsenal/translations
+- From: plugins/FixItFelix-Krumpac_Reforge_Translations/Krumpac-Krumpac_Weapon_Arsenal/translations
   To: plugins/Krumpac-Krumpac_Weapon_Arsenal/translations
