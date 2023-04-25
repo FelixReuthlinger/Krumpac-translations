@@ -2,10 +2,10 @@ name: Validate-YAML
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
-  workflow_dispatch: 
+    branches: [main]
+  workflow_dispatch:
 
 jobs:
 
@@ -13,24 +13,22 @@ jobs:
     needs: reformat-yaml
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Validate YAML file
-        run: yamllint plugins
-        
+    - uses: actions/checkout@v2
+    - name: Validate YAML file
+      run: yamllint plugins
+
   reformat-yaml:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the source code so there are some files to look at.
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      # Run the reformat action
-      - name: Reformat YAML Files
-        uses: credfeto/action-yaml-format@v1.3.2
-      - name: Commit files
-        run: |
-          git config --local user.email "FelixReuthlinger@users.noreply.github.com"
-          git config --local user.name "YAML Reformat Bot"
-          git commit --all -m"Reformat YAML Files to common format." || true
-      - name: Push
-        run: git push "https://${{github.actor}}:${{secrets.SOURCE_PUSH_TOKEN}}@github.com/${{github.repository}}.git" "HEAD:main"
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    - name: Reformat YAML Files
+      uses: credfeto/action-yaml-format@v1.3.2
+    - name: Commit files
+      run: |
+        git config --local user.email "FelixReuthlinger@users.noreply.github.com"
+        git config --local user.name "YAML Reformat Bot"
+        git commit --all -m"Reformat YAML Files to common format." || true
+    - name: Push
+      run: git push "https://${{github.actor}}:${{secrets.SOURCE_PUSH_TOKEN}}@github.com/${{github.repository}}.git" "HEAD:main"
