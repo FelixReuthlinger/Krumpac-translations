@@ -11,7 +11,7 @@ $FilePrefixesAndFolders = @{
   "Krumpac_Weapon_Arsenal" = "Krumpac-Krumpac_Weapon_Arsenal"
 }
 $SourceLanguage = "English"
-$TargetLanguage = "TEST"
+$TargetLanguages = "Chinese", "French", "German", "Korean", "Polish", "Russian", "Spanish", "Ukranian"
 
 function FileToMap {
   param ($filePath)
@@ -22,25 +22,27 @@ function FileToMap {
   return $result
 }
 
-foreach ($kv in $FilePrefixesAndFolders.GetEnumerator()){
+foreach ($kv in $FilePrefixesAndFolders.GetEnumerator()) {
   $CurrentInputFileAbsolute = "${PSScriptRoot}\plugins\" + $kv.Value + "\translations\" + $kv.Name + ".$SourceLanguage.yml"
   Write-Output($CurrentInputFileAbsolute)
 
-  $CurrentOutputFileAbsolute = "${PSScriptRoot}\plugins\" + $kv.Value + "\translations\" + $kv.Name + ".$TargetLanguage.yml"
-  Write-Output($CurrentOutputFileAbsolute)
+  foreach ($TargetLanguage in $TargetLanguages) {
+    $CurrentOutputFileAbsolute = "${PSScriptRoot}\plugins\" + $kv.Value + "\translations\" + $kv.Name + ".$TargetLanguage.yml"
+    Write-Output($CurrentOutputFileAbsolute)
+    
+    $inputMap = FileToMap($CurrentInputFileAbsolute)
+    $outputMap = FileToMap($CurrentOutputFileAbsolute)
   
-  $inputMap = FileToMap($CurrentInputFileAbsolute)
-  $outputMap = FileToMap($CurrentOutputFileAbsolute)
-
-  foreach($tuple in $inputMap.GetEnumerator()){
-    if(! $outputMap.containsKey($tuple.Name)){
-      $outputMap[$tuple.Name] = "--TODO fill value-- " + $tuple.Value
+    foreach($tuple in $inputMap.GetEnumerator()){
+      if(! $outputMap.containsKey($tuple.Name)){
+        $outputMap[$tuple.Name] = "--TODO fill value-- " + $tuple.Value
+      }
     }
+  
+    $output = @()
+    foreach($kvout in $outputMap.GetEnumerator()){
+      $output += $kvout.Name + ": `"" + $kvout.Value + "`""
+    } 
+    $output | Sort-Object | Out-File($CurrentOutputFileAbsolute)
   }
-
-  $output = @()
-  foreach($kv in $outputMap.GetEnumerator()){
-    $output += $kv.Name + ": `"" + $kv.Value + "`""
-  } 
-  $output | Sort-Object | Out-File($CurrentOutputFileAbsolute)
 }

@@ -21,5 +21,5 @@ foreach ($kv in $FilePrefixesAndFolders.GetEnumerator()){
   $CurrentInputFileAbsolute = "$PSScriptRoot\$CurrentInputFileRelative"
   Write-Output($CurrentInputFileAbsolute)
 
-  Get-Content $CurrentInputFileAbsolute | Where-Object { ! $_.StartsWith("#") } | Sort-Object | Get-Unique | Out-File "$CurrentInputFileAbsolute-tmp"
+  Get-Content $CurrentInputFileAbsolute | Where-Object { ! $_.StartsWith("#") } | Sort-Object | Get-Unique | Set-Content $CurrentInputFileAbsolute
 }
