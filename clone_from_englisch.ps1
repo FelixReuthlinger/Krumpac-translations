@@ -18,7 +18,7 @@ $FilePrefixesAndFolders = @{
   "Krumpac_Weapon_Arsenal" = "Krumpac-Krumpac_Weapon_Arsenal"
 }
 $TranslationsSubFolder = "translations"
-$SourceLanguage = "Englisch"
+$SourceLanguage = "English"
 $FileSuffix = "yml"
 
 foreach ($kv in $FilePrefixesAndFolders.GetEnumerator()){
@@ -28,7 +28,7 @@ foreach ($kv in $FilePrefixesAndFolders.GetEnumerator()){
   $CurrentInputFileAbsolute = "$PSScriptRoot\$CurrentInputFileRelative"
   Write-Output($CurrentInputFileAbsolute)
 
-  Get-Content $CurrentInputFileAbsolute | Where-Object{ ! $_.StartsWith("#") } | Sort-Object | Get-Unique > $CurrentInputFileAbsolute
+  Get-Content $CurrentInputFileAbsolute | Where-Object { ! $_.StartsWith("#") } | Sort-Object | Get-Unique | Out-File "$CurrentInputFileAbsolute-tmp"
 }
 
 #Get-Content unsorted.txt | sort | get-unique > sorted.txt
