@@ -1,10 +1,3 @@
-# $TargetZipFileName = "~\Downloads\$(Split-Path -Path $PSScriptRoot -Leaf).zip"
-# $compress = @{
-#   Path             = "$PSScriptRoot\README.md", "$PSScriptRoot\CHANGELOG.md", "$PSScriptRoot\manifest.json", "$PSScriptRoot\icon.png", "$PSScriptRoot\config", "$PSScriptRoot\plugins"
-#   CompressionLevel = "Fastest"
-#   DestinationPath  = $TargetZipFileName
-# }
-# Compress-Archive @compress -Force
 
 $PluginsFolder = "plugins"
 $FilePrefixesAndFolders = @{
@@ -30,5 +23,3 @@ foreach ($kv in $FilePrefixesAndFolders.GetEnumerator()){
 
   Get-Content $CurrentInputFileAbsolute | Where-Object { ! $_.StartsWith("#") } | Sort-Object | Get-Unique | Out-File "$CurrentInputFileAbsolute-tmp"
 }
-
-#Get-Content unsorted.txt | sort | get-unique > sorted.txt
