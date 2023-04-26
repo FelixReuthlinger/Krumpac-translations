@@ -35,7 +35,7 @@ foreach ($kv in $FilePrefixesAndFolders.GetEnumerator()) {
   
     foreach($tuple in $inputMap.GetEnumerator()){
       if(! $outputMap.containsKey($tuple.Name)){
-        $outputMap[$tuple.Name] = "--TODO fill value-- " + $tuple.Value
+        $outputMap[$tuple.Name] = $tuple.Value
       }
     }
   
