@@ -30,19 +30,33 @@ foreach ($kv in $FilePrefixesAndFolders.GetEnumerator()) {
     $CurrentOutputFileAbsolute = "${PSScriptRoot}\plugins\" + $kv.Value + "\translations\" + $kv.Name + ".$TargetLanguage.yml"
     Write-Output($CurrentOutputFileAbsolute)
     
+    # load files
     $inputMap = FileToMap($CurrentInputFileAbsolute)
     $outputMap = FileToMap($CurrentOutputFileAbsolute)
   
-    foreach($tuple in $inputMap.GetEnumerator()){
-      if(! $outputMap.containsKey($tuple.Name)){
-        $outputMap[$tuple.Name] = $tuple.Value
+    # add new keys from english to output
+    foreach($inKey in $inputMap.Keys){
+      if(! $outputMap.containsKey($inKey)){
+        $outputMap[$inKey] = $inputMap.Item($inKey)
       }
     }
+
+    # clean up the output from deprecated keys
+    $keyToDropFromOutput=@()
+    foreach($outKey in $outputMap.Keys){
+      if(! $inputMap.ContainsKey($outKey)){
+        $keyToDropFromOutput += $outKey
+      }
+    }
+    foreach($dropKey in $keyToDropFromOutput){
+      $outputMap.Remove($dropKey)
+    }
   
+    # write output back
     $output = @()
-    foreach($kvout in $outputMap.GetEnumerator()){
-      $output += $kvout.Name + ": `"" + $kvout.Value.Trim() + "`""
+    foreach($outKey in $outputMap.Keys){
+      $output += $outKey + ": `"" + $outputMap.Item($outKey).Trim() + "`""
     } 
-    $output | Sort-Object | Out-File($CurrentOutputFileAbsolute)
+    $output | Sort-Object | Set-Content($CurrentOutputFileAbsolute)
   }
 }
