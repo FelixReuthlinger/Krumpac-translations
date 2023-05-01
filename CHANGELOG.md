@@ -1,3 +1,4 @@
+ * 1.0.5 -> updated translations for upcoming core update to 1.7.3
  * 1.0.4 -> 
     * aligned translation files (missing keys added)
     * translation files sorted
