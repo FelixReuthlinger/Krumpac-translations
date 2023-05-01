@@ -1,3 +1,4 @@
+ * 1.0.7 -> fixed some simple missing translations on English
  * 1.0.6 -> updated also older translations that still contained deprecated translations (items not existant anymore)
  * 1.0.5 -> updated translations for upcoming core update to 1.7.3
  * 1.0.4 -> 
