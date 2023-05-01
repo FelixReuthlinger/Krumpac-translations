@@ -41,7 +41,7 @@ foreach ($kv in $FilePrefixesAndFolders.GetEnumerator()) {
   
     $output = @()
     foreach($kvout in $outputMap.GetEnumerator()){
-      $output += $kvout.Name + ": `"" + $kvout.Value + "`""
+      $output += $kvout.Name + ": `"" + $kvout.Value.Trim() + "`""
     } 
     $output | Sort-Object | Out-File($CurrentOutputFileAbsolute)
   }
