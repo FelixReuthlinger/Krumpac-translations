@@ -1,3 +1,6 @@
+ * 1.0.11 -> 
+   * added some missing translations from what I found comparing in-game prefabs lists
+   * roofs made from hay are now called "hay roofs", the older re-imported vanilla like roofs are now the only "Straw roofs" and are also made from straw
  * 1.0.10 -> fixed a lot of building pieces translations
  * 1.0.9 -> fixed the table called "stick fence", changed butchers knife to a more correct translation
  * 1.0.8 -> fixed bow, removed wrongly spelled ukranian -> ukrainian
