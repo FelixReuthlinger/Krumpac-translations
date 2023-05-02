@@ -1,3 +1,4 @@
+* 1.0.13 -> added missing lydit shield
 * 1.0.12 ->
   * activated BlackForest translation automation
   * added Korean translation for BlackForest dungeons, thx to contoll#4573
