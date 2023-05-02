@@ -1,3 +1,4 @@
+ * 1.0.9 -> fixed the table called "stick fence", changed butchers knife to a more correct translation
  * 1.0.8 -> fixed bow, removed wrongly spelled ukranian -> ukrainian
  * 1.0.7 -> fixed some simple missing translations on English
  * 1.0.6 -> updated also older translations that still contained deprecated translations (items not existant anymore)
