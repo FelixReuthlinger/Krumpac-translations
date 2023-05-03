@@ -1,3 +1,4 @@
+* 1.0.14 -> fixed typo for stag breaker translations
 * 1.0.13 -> added missing lydit shield
 * 1.0.12 ->
   * activated BlackForest translation automation
