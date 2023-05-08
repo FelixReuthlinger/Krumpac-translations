@@ -1,3 +1,4 @@
+* 1.0.16 -> fixed crushed mushroom
 * 1.0.15 -> updated icon
 * 1.0.14 -> fixed typo for stag breaker translations
 * 1.0.13 -> added missing lydit shield
