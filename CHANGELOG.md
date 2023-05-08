@@ -1,10 +1,11 @@
+* 1.0.17 -> added fixed translation for Korean, thx to `contoll#4573`
 * 1.0.16 -> fixed crushed mushroom
 * 1.0.15 -> updated icon
 * 1.0.14 -> fixed typo for stag breaker translations
 * 1.0.13 -> added missing lydit shield
 * 1.0.12 ->
   * activated BlackForest translation automation
-  * added Korean translation for BlackForest dungeons, thx to contoll#4573
+  * added Korean translation for BlackForest dungeons, thx to `contoll#4573`
 * 1.0.11 -> 
   * added some missing translations from what I found comparing in-game prefabs lists
   * roofs made from hay are now called "hay roofs", the older re-imported vanilla like roofs are now the only "Straw roofs" and are also made from straw
