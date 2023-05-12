@@ -1,4 +1,4 @@
-* 1.0.17 -> added fixed translation for Korean, thx to `contoll#4573`
+* 1.0.17 & 18 -> added fixed translation for Korean, thx to `contoll#4573`
 * 1.0.16 -> fixed crushed mushroom
 * 1.0.15 -> updated icon
 * 1.0.14 -> fixed typo for stag breaker translations
