@@ -1,3 +1,4 @@
+* 1.0.20 -> fixed typo in meadows scroll
 * 1.0.19 -> fixed missing "i" in Berserkir prefab names
 * 1.0.17 & 18 -> added fixed translation for Korean, thx to `contoll#4573`
 * 1.0.16 -> fixed crushed mushroom
