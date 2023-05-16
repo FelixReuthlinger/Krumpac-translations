@@ -12,7 +12,7 @@ $FilePrefixesAndFolders = @{
   "Krumpac_Weapon_Arsenal" = "Krumpac-Krumpac_Weapon_Arsenal"
 }
 $SourceLanguage = "English"
-$TargetLanguages = "Chinese", "French", "German", "Korean", "Polish", "Russian", "Spanish", "Ukrainian"
+$TargetLanguages = "Chinese", "French", "German", "Korean", "Polish", "Russian", "Spanish", "Ukrainian", "Turkish"
 
 function FileToMap {
   param ($filePath)
