@@ -1,3 +1,4 @@
+* 1.2.1 -> fixed the English version not having "-" for the stations causing renamings always in game 
 * 1.2.0 -> 
   * added changes for Datys Professions update 1.1.4
   * added changes for Reforge Core 1.7.8
