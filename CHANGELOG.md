@@ -1,3 +1,6 @@
+* 1.2.0 -> 
+  * added changes for Datys Professions update 1.1.4
+  * added changes for Reforge Core 1.7.8
 * 1.1.0 -> added a lot of missing translations entries using TranslationsHelper tool
 * 1.0.20 -> fixed typo in meadows scroll
 * 1.0.19 -> fixed missing "i" in Berserkir prefab names
