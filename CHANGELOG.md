@@ -1,3 +1,4 @@
+* 1.2.3 -> added changes for ukranian by `CODORΞ OLΞKSANDR#0007`
 * 1.2.2 -> no changes, just uploaded to Krumpac's team now
 * 1.2.1 -> fixed the English version not having "-" for the stations causing renamings always in game 
 * 1.2.0 -> 
