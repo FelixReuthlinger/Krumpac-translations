@@ -1,3 +1,4 @@
+* 1.3.2 -> better descriptions for food supply offerings
 * 1.3.1 -> improved korean 
 * 1.3.0 -> updated copy script, will get less warnings and translations will get in place
 * 1.2.4 -> improvements for thrall descriptions, will make thrall usage more clear
