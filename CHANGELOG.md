@@ -1,3 +1,4 @@
+* 1.3.3 -> fixed some remaining issues with crafting station names
 * 1.3.2 -> better descriptions for food supply offerings
 * 1.3.1 -> improved korean 
 * 1.3.0 -> updated copy script, will get less warnings and translations will get in place
