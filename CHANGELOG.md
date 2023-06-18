@@ -1,3 +1,4 @@
+* 1.3.5 -> added new chinese translations, thx to `yuukaunna`
 * 1.3.4 -> updated korean translations, thx to `contoll#4573`
 * 1.3.3 -> fixed some remaining issues with crafting station names
 * 1.3.2 -> better descriptions for food supply offerings
