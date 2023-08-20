@@ -1,3 +1,4 @@
+* 1.3.8 -> German language update and fixes, thx to `blubbson`
 * 1.3.7 -> French update thx to `Bradani` 
 * 1.3.6 -> fixed drying station name
 * 1.3.5 -> added new chinese translations, thx to `yuukaunna`
