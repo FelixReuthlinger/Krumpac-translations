@@ -4,12 +4,11 @@ $FilePrefixesAndFolders = @{
   "Datys_Professions" = "Krumpac-Datys_Professions";
   "Krumpac_Armors" = "Krumpac-Krumpac_Armors";
   "Krumpac_Building_Pieces" = "Krumpac-Krumpac_Building_Pieces";
-  "Krumpac_Dungeon_Meadows" = "Krumpac-Krumpac_Dungeon_Meadows"; 
-  "Krumpac_Dungeon_BlackForest" = "Krumpac-Krumpac_Dungeon_BlackForest"; 
   "Krumpac_Reforge_Core" = "Krumpac-Krumpac_Reforge_Core"; 
   "Krumpac_Sacrificing_Altars" = "Krumpac-Krumpac_Sacrificing_Altars";
   "Krumpac_Tribe_Ornaments" = "Krumpac-Krumpac_Sacrificing_Altars";
-  "Krumpac_Weapon_Arsenal" = "Krumpac-Krumpac_Weapon_Arsenal"
+  "Krumpac_Weapon_Arsenal" = "Krumpac-Krumpac_Weapon_Arsenal";
+  "Krump_Monsters_Pack_1" = "Krumpac-Krump_Monsters_Pack_1"
 }
 $TranslationsSubFolder = "translations"
 $SourceLanguage = "English"
