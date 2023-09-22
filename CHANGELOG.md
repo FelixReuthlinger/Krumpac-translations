@@ -1,3 +1,4 @@
+* 2.0.3 -> fixed some monsters translations
 * 2.0.2 -> more German translations by `blubbson`
 * 2.0.0 & .1 -> changes for 2.0.0 reforge version
 * 1.3.8 -> German language update and fixes, thx to `blubbson`
