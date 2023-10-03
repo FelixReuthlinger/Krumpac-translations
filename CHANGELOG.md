@@ -1,3 +1,4 @@
+* 2.0.5 -> fixes for Polish by `Oszoou`
 * 2.0.4 -> fixes for German by `blubbson`
 * 2.0.3 -> fixed some monsters translations
 * 2.0.2 -> more German translations by `blubbson`
