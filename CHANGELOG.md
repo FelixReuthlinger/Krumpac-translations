@@ -1,4 +1,4 @@
-* 2.0.7 -> updated for Reforge 3.0.3
+* 3.0.0 -> updated for Reforge 3.0.3
 * 2.0.6 -> fixed for Ukranian by `CODORΞ OLΞKSANDR#0007`
 * 2.0.5 -> fixes for Polish by `Oszoou`
 * 2.0.4 -> fixes for German by `blubbson`
