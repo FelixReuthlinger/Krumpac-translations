@@ -1,4 +1,5 @@
-* 3.0.0 -> updated for Reforge 3.0.3
+* 3.0.1 -> fixed duplicated key issue, since meadows dungeons translations was not overwritten properly
+* 3.0.0 -> updated for Reforge 3.0.2
 * 2.0.6 -> fixed for Ukranian by `CODORΞ OLΞKSANDR#0007`
 * 2.0.5 -> fixes for Polish by `Oszoou`
 * 2.0.4 -> fixes for German by `blubbson`

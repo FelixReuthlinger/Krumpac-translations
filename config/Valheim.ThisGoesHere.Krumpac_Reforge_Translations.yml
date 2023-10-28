@@ -14,3 +14,5 @@ MoveFolder:
   To: plugins/Krumpac-Krumpac_Weapon_Arsenal
 - From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac-Krump_Monsters_Pack_1/translations
   To: plugins/Krumpac-Krumpac-Krump_Monsters_Pack_1
+- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Dungeon_Meadows/translations
+  To: plugins/Krumpac-Krumpac_Dungeon_Meadows
