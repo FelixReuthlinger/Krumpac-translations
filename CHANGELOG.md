@@ -1,3 +1,6 @@
+* 3.1.2 -> 
+  * replaced translation of boar to pig, since now we have pigs instead of boars
+  * updated Ukranian translation by `CODORΞ OLΞKSANDR#0007`
 * 3.1.0 & .1 -> translations for Reforge 3.0.4
 * 3.0.3 & .4 -> fixes and updates for new versions
 * 3.0.2 -> fixed Polish by `Oszoou`
