@@ -1,3 +1,4 @@
+* 3.1.3 -> utf8 issue fixed
 * 3.1.2 -> 
   * replaced translation of boar to pig, since now we have pigs instead of boars
   * updated Ukranian translation by `CODORΞ OLΞKSANDR#0007`
