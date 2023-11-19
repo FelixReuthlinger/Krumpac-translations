@@ -1,3 +1,4 @@
+* 3.1.4 -> added more translations for resin extraction
 * 3.1.3 -> utf8 issue fixed
 * 3.1.2 -> 
   * replaced translation of boar to pig, since now we have pigs instead of boars
