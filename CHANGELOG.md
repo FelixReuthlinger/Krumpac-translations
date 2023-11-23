@@ -1,3 +1,4 @@
+* 3.1.7 -> preps for 3.0.5
 * 3.1.6 -> added translations for the new ships
 * 3.1.5 -> changed harbor and shipyard constructibles translations
 * 3.1.4 -> added more translations for resin extraction
