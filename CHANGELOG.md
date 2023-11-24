@@ -1,3 +1,4 @@
+* 3.2.1 -> another update for reforge core 3.0.8
 * 3.2.0 -> updating for reforge core 3.0.6
 * 3.1.8 -> updated Ukranian translation by `CODORΞ OLΞKSANDR#0007`
 * 3.1.7 -> preps for 3.0.6
