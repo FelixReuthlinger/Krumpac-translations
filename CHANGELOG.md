@@ -1,3 +1,4 @@
+* 3.2.4 -> latest updates for translations
 * 3.2.3 -> Pig meat with potatoes translation fix 
 * 3.2.2 -> updated building pieces translations by `chromosphere`
 * 3.2.1 -> another update for reforge core 3.0.8
