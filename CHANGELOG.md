@@ -1,3 +1,4 @@
+* 3.2.5 -> updated Ukranian translation by `CODORΞ OLΞKSANDR#0007`
 * 3.2.4 -> latest updates for translations
 * 3.2.3 -> Pig meat with potatoes translation fix 
 * 3.2.2 -> updated building pieces translations by `chromosphere`
