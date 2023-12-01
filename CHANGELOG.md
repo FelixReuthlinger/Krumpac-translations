@@ -1,3 +1,4 @@
+* 3.2.6 -> fixed some Ukranian translation issues
 * 3.2.5 -> updated Ukranian translation by `CODORΞ OLΞKSANDR#0007`
 * 3.2.4 -> latest updates for translations
 * 3.2.3 -> Pig meat with potatoes translation fix 
