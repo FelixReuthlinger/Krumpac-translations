@@ -1,4 +1,4 @@
-* 3.3.2 -> updates for 3.1.0
+* 3.3.2 & .3 -> updates for 3.1.0
 * 3.3.1 -> updates for new stuff coming with release
 * 3.3.0 -> updated for recent major reforge update
 * 3.2.6 -> fixed some Ukranian translation issues
