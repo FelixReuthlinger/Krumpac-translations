@@ -1,3 +1,4 @@
+* 3.3.1 -> updates for new stuff coming with release
 * 3.3.0 -> updated for recent major reforge update
 * 3.2.6 -> fixed some Ukranian translation issues
 * 3.2.5 -> updated Ukranian translation by `CODORΞ OLΞKSANDR#0007`
