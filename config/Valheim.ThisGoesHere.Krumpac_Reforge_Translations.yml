@@ -2,17 +2,17 @@
 MoveFolder:
 - From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Datys_Professions/translations
   To: plugins/Krumpac-Datys_Professions
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Armors/translations
-  To: plugins/Krumpac-Krumpac_Armors
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Building_Pieces/translations
-  To: plugins/Krumpac-Krumpac_Building_Pieces
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Reforge_Core/translations
-  To: plugins/Krumpac-Krumpac_Reforge_Core
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Sacrificing_Altars/translations
-  To: plugins/Krumpac-Krumpac_Sacrificing_Altars
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Weapon_Arsenal/translations
-  To: plugins/Krumpac-Krumpac_Weapon_Arsenal
+# - From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Armors/translations
+#   To: plugins/Krumpac-Krumpac_Armors
+# - From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Building_Pieces/translations
+#   To: plugins/Krumpac-Krumpac_Building_Pieces
+# - From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Reforge_Core/translations
+#   To: plugins/Krumpac-Krumpac_Reforge_Core
+# - From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Sacrificing_Altars/translations
+#   To: plugins/Krumpac-Krumpac_Sacrificing_Altars
+# - From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Weapon_Arsenal/translations
+#   To: plugins/Krumpac-Krumpac_Weapon_Arsenal
 - From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac-Krump_Monsters_Pack_1/translations
   To: plugins/Krumpac-Krumpac-Krump_Monsters_Pack_1
-- From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Dungeon_Meadows/translations
-  To: plugins/Krumpac-Krumpac_Dungeon_Meadows
+# - From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Dungeon_Meadows/translations
+#   To: plugins/Krumpac-Krumpac_Dungeon_Meadows
