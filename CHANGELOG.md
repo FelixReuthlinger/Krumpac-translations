@@ -1,3 +1,4 @@
+* 3.3.4 -> fixed Hemp pickable translation, renamed slave armor to thrall (more lore fit)
 * 3.3.2 & .3 -> updates for 3.1.0
 * 3.3.1 -> updates for new stuff coming with release
 * 3.3.0 -> updated for recent major reforge update
