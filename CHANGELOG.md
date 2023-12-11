@@ -1,3 +1,7 @@
+* 3.3.6 -> 
+  * fixes and additions
+  * moved tribe ornaments translations to its own folder (since not combined with sacrificing altars anymore)
+  * updated Ukranian translation by `CODORΞ OLΞKSANDR#0007`
 * 3.3.5 -> tiny updates
 * 3.3.4 -> fixed Hemp pickable translation, renamed slave armor to thrall (more lore fit)
 * 3.3.2 & .3 -> updates for 3.1.0
