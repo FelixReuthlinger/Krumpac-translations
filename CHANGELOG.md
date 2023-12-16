@@ -1,3 +1,4 @@
+* 3.3.7 -> preparations for next release
 * 3.3.6 -> 
   * fixes and additions
   * moved tribe ornaments translations to its own folder (since not combined with sacrificing altars anymore)
