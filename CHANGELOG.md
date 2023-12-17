@@ -1,3 +1,4 @@
+* 3.3.8 -> added some missed translations
 * 3.3.7 -> preparations for next release
 * 3.3.6 -> 
   * fixes and additions
