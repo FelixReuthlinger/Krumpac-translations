@@ -1,3 +1,4 @@
+* 3.4.2 -> improved some texts
 * 3.4.1 -> more preparations
 * 3.4.0 -> lore texts added for coming release
 * 3.3.8 -> added some missed translations
