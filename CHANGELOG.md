@@ -1,3 +1,4 @@
+* 4.0.0 -> translations for big update
 * 3.4.3 & .4 & .5 -> more preps
 * 3.4.2 -> improved some texts
 * 3.4.1 -> more preparations
