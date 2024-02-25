@@ -1,3 +1,4 @@
+* 4.0.2 -> updates and fixes
 * 4.0.1 -> updates and fixes
 * 4.0.0 -> translations for big update
 * 3.4.3 & .4 & .5 -> more preps
