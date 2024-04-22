@@ -1,3 +1,4 @@
+* 5.0.1 -> fixed building translations
 * 5.0.0 -> first updates for 5.0.0 releases, more to come
 * 4.0.2 -> updates and fixes
 * 4.0.1 -> updates and fixes
