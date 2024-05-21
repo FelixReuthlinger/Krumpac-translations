@@ -1,3 +1,6 @@
+* 6.0.0 -> 
+  * updates for 6.0.0 release
+  * added chinese translations, thx to `yuukaunna`
 * 5.0.1 -> fixed building translations
 * 5.0.0 -> first updates for 5.0.0 releases, more to come
 * 4.0.2 -> updates and fixes
