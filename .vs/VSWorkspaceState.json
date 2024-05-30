@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\plugins",
+    "\\plugins\\Krumpac-Datys_Professions",
+    "\\plugins\\Krumpac-Datys_Professions\\translations",
+    "\\plugins\\Krumpac-Krumpac_Armors",
+    "\\plugins\\Krumpac-Krumpac_Armors\\translations",
+    "\\plugins\\Krumpac-Krumpac_Location_01",
+    "\\plugins\\Krumpac-Krumpac_Location_01\\translations",
+    "\\plugins\\Krumpac-Krump_Monsters_Pack_1",
+    "\\plugins\\Krumpac-Krump_Monsters_Pack_1\\translations"
   ],
-  "SelectedNode": "\\F:\\Valheim project\\Krumpac-translations",
   "PreviewInSolutionExplorer": false
 }
