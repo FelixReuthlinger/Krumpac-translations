@@ -1,3 +1,6 @@
+* 6.0.1 ->
+  * updated russian translations, thx to `MrHatter89` and `glohroc1` 
+  * updated chinese translations, thx to `yuukaunna`
 * 6.0.0 -> 
   * updates for 6.0.0 release
   * added chinese translations, thx to `yuukaunna`
