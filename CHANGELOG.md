@@ -1,3 +1,4 @@
+* 6.0.2 -> added fixes by `MrHatter89` and `glohroc1` 
 * 6.0.1 ->
   * updated russian translations, thx to `MrHatter89` and `glohroc1` 
   * updated chinese translations, thx to `yuukaunna`
