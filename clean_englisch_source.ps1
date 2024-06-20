@@ -9,7 +9,8 @@ $FilePrefixesAndFolders = @{
   "Krumpac_Tribe_Ornaments" = "Krumpac-Krumpac_Tribe_Ornaments";
   "Krumpac_Weapon_Arsenal" = "Krumpac-Krumpac_Weapon_Arsenal";
   "Krump_Monsters_Pack_1" = "Krumpac-Krump_Monsters_Pack_1";
-  "Krumpac_Dungeon_Meadows" = "Krumpac-Krumpac_Dungeon_Meadows"
+  "Krumpac_Dungeon_Meadows" = "Krumpac-Krumpac_Dungeon_Meadows";
+  "Krumpac_Location_01" = "Krumpac-Krumpac_Location_01";
 }
 $TranslationsSubFolder = "translations"
 $SourceLanguage = "English"
