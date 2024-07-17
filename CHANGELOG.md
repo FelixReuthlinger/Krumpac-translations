@@ -1,3 +1,4 @@
+* 6.1.0 -> updates for the latest release
 * 6.0.5 -> fixed bad file naming for translations for locations mod (can get you 2 set of files, but should not harm)
 * 6.0.3 & .4 -> added texts to the Hugin starting temple translations
 * 6.0.2 -> added fixes by `MrHatter89` and `glohroc1` 
