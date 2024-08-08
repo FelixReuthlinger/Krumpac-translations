@@ -6,7 +6,13 @@
         {
             "label": "copy YML to BepInEx",
             "type": "shell",
-            "command": "cp -r -Force ./plugins/* 'D:/SteamLibrary/steamapps/common/Valheim/BepInEx_Krumpac/plugins/Krumpac-Krumpac_Reforge_Translations'"
+            "windows":{
+                "command": [
+                    "$ValheimDir=(Get-ItemProperty -Path 'HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Steam App 892970' -Name InstallLocation).InstallLocation;",
+                    "cp -r -Force ./plugins/* \"$ValheimDir\\BepInEx\\plugins\\Krumpac-Krumpac_Reforge_Translations\""
+                ],
+            },
+            "problemMatcher": [],
         }
     ]
 }
