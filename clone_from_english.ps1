@@ -11,6 +11,7 @@ $FilePrefixesAndFolders = @{
   "Krump_Monsters_Pack_1" = "Krumpac-Krump_Monsters_Pack_1";
   "Krumpac_Dungeon_Meadows" = "Krumpac-Krumpac_Dungeon_Meadows";
   "Krumpac_Locations" = "Krumpac-Krumpac_Locations";
+  "Krumpac_Dungeon_BlackForest" = "Krumpac-Krumpac_Dungeon_BlackForest";
 }
 $SourceLanguage = "English"
 $TargetLanguages = "Chinese", "French", "German", "Korean", "Polish", "Russian", "Spanish", "Ukrainian", "Turkish"
