@@ -1,3 +1,4 @@
+* 6.1.3 -> updates adding new translations
 * 6.1.2 -> updates adding new translations
 * 6.1.1 -> spelling fix
 * 6.1.0 -> updates for the latest release
