@@ -1,3 +1,4 @@
+* 7.0.0 -> first translations for v7 release - still in preparations
 * 6.1.6 -> preps for sept update
 * 6.1.5 -> reworked professions translations
 * 6.1.4 -> added some location translations
