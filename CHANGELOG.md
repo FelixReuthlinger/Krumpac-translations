@@ -1,3 +1,4 @@
+* 7.0.2 -> fixed GP_Map_Farm1_*
 * 7.0.1 -> some fixes for translations
 * 7.0.0 -> first translations for v7 release - still in preparations
 * 6.1.6 -> preps for sept update
