@@ -1,3 +1,4 @@
+* 7.0.5 -> (skipped .4) new translations for the .5 fix release
 * 7.0.3 -> added new trandslations
 * 7.0.2 -> fixed GP_Map_Farm1_*
 * 7.0.1 -> some fixes for translations
