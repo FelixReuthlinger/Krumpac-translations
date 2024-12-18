@@ -16,14 +16,3 @@ MoveFolder:
   To: plugins/Krumpac-Krumpac-Krump_Monsters_Pack_1
 # - From: plugins/Krumpac-Krumpac_Reforge_Translations/Krumpac-Krumpac_Dungeon_Meadows/translations
 #   To: plugins/Krumpac-Krumpac_Dungeon_Meadows
-DeleteFile:
-- plugins/Krumpac-Krumpac_Sacrificing_Altars/translations/Krumpac_Tribe_Ornaments.Chinese.yml
-- plugins/Krumpac-Krumpac_Sacrificing_Altars/translations/Krumpac_Tribe_Ornaments.English.yml
-- plugins/Krumpac-Krumpac_Sacrificing_Altars/translations/Krumpac_Tribe_Ornaments.French.yml
-- plugins/Krumpac-Krumpac_Sacrificing_Altars/translations/Krumpac_Tribe_Ornaments.German.yml
-- plugins/Krumpac-Krumpac_Sacrificing_Altars/translations/Krumpac_Tribe_Ornaments.Korean.yml
-- plugins/Krumpac-Krumpac_Sacrificing_Altars/translations/Krumpac_Tribe_Ornaments.Polish.yml
-- plugins/Krumpac-Krumpac_Sacrificing_Altars/translations/Krumpac_Tribe_Ornaments.Russian.yml
-- plugins/Krumpac-Krumpac_Sacrificing_Altars/translations/Krumpac_Tribe_Ornaments.Spanish.yml
-- plugins/Krumpac-Krumpac_Sacrificing_Altars/translations/Krumpac_Tribe_Ornaments.Turkish.yml
-- plugins/Krumpac-Krumpac_Sacrificing_Altars/translations/Krumpac_Tribe_Ornaments.Ukrainian.yml
