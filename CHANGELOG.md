@@ -1,3 +1,4 @@
+* 7.0.9 -> Krump's play testing changes
 * 7.0.8 ->
   * updated this goes here config
   * updated translations with runestones and guidepoints around BF dungeons
