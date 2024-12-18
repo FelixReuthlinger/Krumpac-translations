@@ -1,3 +1,4 @@
+* 7.0.10 -> fixed duplicates
 * 7.0.9 -> Krump's play testing changes
 * 7.0.8 ->
   * updated this goes here config
